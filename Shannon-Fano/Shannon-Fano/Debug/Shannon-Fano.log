@@ -1,0 +1,7 @@
+﻿  Shannon-Fano.cpp
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(49,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(190,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(201,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(208,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Shannon-Fano.vcxproj -> C:\Users\Руслан\source\repos\Shannon-Fano\Debug\Shannon-Fano.exe
