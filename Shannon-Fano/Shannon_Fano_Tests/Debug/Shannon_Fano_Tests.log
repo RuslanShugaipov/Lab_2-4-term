@@ -1,0 +1,12 @@
+﻿  Shannon_Fano_Tests.cpp
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Encode_N_Decode.h(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Encode_N_Decode.h(149,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Encode_N_Decode.h(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon-Fano\Encode_N_Decode.h(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon_Fano_Tests\Shannon_Fano_Tests.cpp(50,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon_Fano_Tests\Shannon_Fano_Tests.cpp(113,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon_Fano_Tests\Shannon_Fano_Tests.cpp(163,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon_Fano_Tests\Shannon_Fano_Tests.cpp(168,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon_Fano_Tests\Shannon_Fano_Tests.cpp(176,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\source\repos\Shannon-Fano\Shannon_Fano_Tests\Shannon_Fano_Tests.cpp(183,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Shannon_Fano_Tests.vcxproj -> C:\Users\Руслан\source\repos\Shannon-Fano\Debug\Shannon_Fano_Tests.dll
